@@ -34,3 +34,5 @@ Data Preparation: The dataset is downloaded from the Seattle Police Department's
 Analysis: The notebook contains code for grouping, filtering, and analyzing the data. Each section of the notebook corresponds to a specific analysis (e.g., crime categories, district-wise crime distribution, temporal analysis).
 
 Visualization: Results are displayed using Databricks' built-in visualization tools, and insights are provided in markdown cells.
+
+Data source: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5/data_preview
